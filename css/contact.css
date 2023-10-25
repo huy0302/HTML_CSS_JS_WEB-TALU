@@ -1,0 +1,17 @@
+.right-contact h3,h5{
+    font-weight: 900;
+    margin: 0 0 30px;
+}
+.maps{
+    margin-top: 100px;
+}
+.contact button{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 30px;
+    background-color: #128277;
+    color: #fff;
+}
+.white-text {
+    color: #fff; /* This sets the color to white */
+}

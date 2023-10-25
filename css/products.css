@@ -1,0 +1,22 @@
+.header-text-product {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 30px;
+    /* margin-top: 5px; */
+}
+.header-text-product p {
+    color: #128277;
+    font-weight: 800;
+    height: 77px;
+    margin-bottom: 25px;
+}
+.white-text {
+    color: #fff; /* This sets the color to white */
+}
+
+    .item-product img {
+        height: 160px;
+        /* width: 100%; */
+        object-fit: cover; 
+    }
+  

@@ -1,0 +1,63 @@
+
+.left-detail{
+    padding: 20px 20px 100px;
+    margin-top: 50px;
+}
+.left-detail h3{
+    color: #026937;
+    font-weight: 900;
+    margin: 30px 0;
+    padding: 0 0 20px 0;
+    border-bottom: #026937 solid 1px;
+}
+.left-detail img{
+    border-radius: 20px;
+    margin: 15px;
+}
+.left-detail p{
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 10px;
+    margin-top: 50px;
+}
+.left-detail tr th,td{
+    padding: 10px;
+}
+.left-detail td{
+    width: 75%;
+    font-style: italic;
+}
+.le{
+    background-color:  #b9c4c98a;
+}
+.right-detail{
+    padding: 0px 0 0 30px;
+    margin-top: 50px;
+    width: 100%;
+}
+.item-right{
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+    gap: 10px;
+    margin: 15px 0;   
+}
+.item-right img{
+    border-radius: 10px;
+}
+.item-right p{
+    color: #026937;
+    font-weight: 700;
+}
+.item-right:hover p{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.item-detail-news .left-detail h6{
+    margin: 20px 0;
+    font-style: italic;
+    word-spacing: 2px;
+}
+.white-text {
+    color: #fff; /* This sets the color to white */
+}
